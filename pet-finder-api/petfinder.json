@@ -1,0 +1,1586 @@
+[
+    {
+        "animals": [
+            {
+                "id": 56190295,
+                "organization_id": "CA2514",
+                "url": "https://www.petfinder.com/cat/reo-56190295/ca/campbell/furrever-cat-and-kitten-rescue-ca2514/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Black & White / Tuxedo",
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Male",
+                "size": "Small",
+                "coat": "Short",
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": true,
+                    "dogs": true,
+                    "cats": true
+                },
+                "tags": [
+                    "Friendly",
+                    "Affectionate",
+                    "Loves kisses",
+                    "Gentle",
+                    "Playful",
+                    "Funny",
+                    "Couch potato"
+                ],
+                "name": "Reo",
+                "description": "This is Reo. He is a handsome black and white tuxedo. He loves to run and play with his siblings...",
+                "organization_animal_id": null,
+                "photos": [
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/1/?bust=1656968295&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/1/?bust=1656968295&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/1/?bust=1656968295&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/1/?bust=1656968295"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/2/?bust=1656968296&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/2/?bust=1656968296&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/2/?bust=1656968296&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/2/?bust=1656968296"
+                    }
+                ],
+                "primary_photo_cropped": {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/1/?bust=1656968295&width=300",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/1/?bust=1656968295&width=450",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/1/?bust=1656968295&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190295/1/?bust=1656968295"
+                },
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:58:17+0000",
+                "published_at": "2022-07-04T20:58:17+0000",
+                "distance": null,
+                "contact": {
+                    "email": "furreverinfo@gmail.com",
+                    "phone": null,
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Campbell",
+                        "state": "CA",
+                        "postcode": "95008",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190295"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/ca2514"
+                    }
+                }
+            },
+            {
+                "id": 56190294,
+                "organization_id": "WA695",
+                "url": "https://www.petfinder.com/dog/drax-56190294/wa/ephrata/lost-and-found-pets-of-grant-county-wa-wa695/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Dog",
+                "species": "Dog",
+                "breeds": {
+                    "primary": "German Shepherd Dog",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Black",
+                    "secondary": "Golden",
+                    "tertiary": "Bicolor"
+                },
+                "age": "Baby",
+                "gender": "Male",
+                "size": "Medium",
+                "coat": "Medium",
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": null,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": true,
+                    "dogs": true,
+                    "cats": null
+                },
+                "tags": [
+                    "Friendly",
+                    "Affectionate",
+                    "Loyal",
+                    "Playful",
+                    "Smart",
+                    "Curious",
+                    "Athletic"
+                ],
+                "name": "Drax",
+                "description": "Meet Drax!\n\nDrax is going on 4 months old and is a male German Shepherd. Drax was born into a...",
+                "organization_animal_id": null,
+                "photos": [
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/1/?bust=1656968290&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/1/?bust=1656968290&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/1/?bust=1656968290&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/1/?bust=1656968290"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/2/?bust=1656968291&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/2/?bust=1656968291&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/2/?bust=1656968291&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/2/?bust=1656968291"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/3/?bust=1656968292&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/3/?bust=1656968292&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/3/?bust=1656968292&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/3/?bust=1656968292"
+                    }
+                ],
+                "primary_photo_cropped": {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/1/?bust=1656968290&width=300",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/1/?bust=1656968290&width=450",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/1/?bust=1656968290&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190294/1/?bust=1656968290"
+                },
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:58:13+0000",
+                "published_at": "2022-07-04T20:58:13+0000",
+                "distance": null,
+                "contact": {
+                    "email": "lafpogcw@yahoo.com",
+                    "phone": "509-264-4898",
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Ephrata",
+                        "state": "WA",
+                        "postcode": "98823",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190294"
+                    },
+                    "type": {
+                        "href": "/v2/types/dog"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/wa695"
+                    }
+                }
+            },
+            {
+                "id": 56190293,
+                "organization_id": "QC153",
+                "url": "https://www.petfinder.com/bird/shiloh-56190293/qc/montreal/hopital-veterinaire-du-nord-qc153/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Bird",
+                "species": "Parrot",
+                "breeds": {
+                    "primary": "Cockatiel",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": null,
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Adult",
+                "gender": "Male",
+                "size": "Small",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": false,
+                    "house_trained": false,
+                    "declawed": null,
+                    "special_needs": false,
+                    "shots_current": false
+                },
+                "environment": {
+                    "children": false,
+                    "dogs": null,
+                    "cats": true
+                },
+                "tags": [],
+                "name": "Shiloh ",
+                "description": "Shiloh est en famille d&#039;accueil chez une de nos employées. Cherche nouvelle maison avec expérience oiseaux. Gentil mais peut-être peureux...",
+                "organization_animal_id": null,
+                "photos": [
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/1/?bust=1656968247&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/1/?bust=1656968247&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/1/?bust=1656968247&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/1/?bust=1656968247"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/2/?bust=1656968249&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/2/?bust=1656968249&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/2/?bust=1656968249&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/2/?bust=1656968249"
+                    }
+                ],
+                "primary_photo_cropped": {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/1/?bust=1656968247&width=300",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/1/?bust=1656968247&width=450",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/1/?bust=1656968247&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190293/1/?bust=1656968247"
+                },
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:57:30+0000",
+                "published_at": "2022-07-04T20:57:30+0000",
+                "distance": null,
+                "contact": {
+                    "email": "christinasourias@videotron.ca",
+                    "phone": "(514) 833-6011",
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Montréal",
+                        "state": "QC",
+                        "postcode": "H3l 2E1",
+                        "country": "CA"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190293"
+                    },
+                    "type": {
+                        "href": "/v2/types/bird"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/qc153"
+                    }
+                }
+            },
+            {
+                "id": 56190292,
+                "organization_id": "TN385",
+                "url": "https://www.petfinder.com/dog/chief-56190292/tn/brentwood/spca-of-tennessee-tn385/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Dog",
+                "species": "Dog",
+                "breeds": {
+                    "primary": "German Shepherd Dog",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Black",
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Young",
+                "gender": "Male",
+                "size": "Large",
+                "coat": "Medium",
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": false,
+                    "declawed": null,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": true,
+                    "dogs": true,
+                    "cats": false
+                },
+                "tags": [
+                    "Friendly",
+                    "Affectionate",
+                    "Loyal",
+                    "Gentle",
+                    "Playful",
+                    "Smart",
+                    "Loves kisses",
+                    "Couch potato",
+                    "Funny"
+                ],
+                "name": "Chief",
+                "description": "Chief  1 year old German Shepherd. He is neutered and up to date in all shots. He is also microchip....",
+                "organization_animal_id": "1745236",
+                "photos": [
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190292/1/?bust=1656968227&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190292/1/?bust=1656968227&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190292/1/?bust=1656968227&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190292/1/?bust=1656968227"
+                    }
+                ],
+                "primary_photo_cropped": {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190292/1/?bust=1656968227&width=300",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190292/1/?bust=1656968227&width=450",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190292/1/?bust=1656968227&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190292/1/?bust=1656968227"
+                },
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:57:09+0000",
+                "published_at": "2022-07-04T20:57:09+0000",
+                "distance": null,
+                "contact": {
+                    "email": "shelter-TN385@petfinder.com",
+                    "phone": null,
+                    "address": {
+                        "address1": "PO Box 1014",
+                        "address2": null,
+                        "city": "Brentwood",
+                        "state": "TN",
+                        "postcode": "37024",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190292"
+                    },
+                    "type": {
+                        "href": "/v2/types/dog"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/tn385"
+                    }
+                }
+            },
+            {
+                "id": 56190291,
+                "organization_id": "NJ813",
+                "url": "https://www.petfinder.com/cat/april-56190291/nj/union-city/union-city-feral-cat-committee-nj813/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "American Shorthair",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Gray & White",
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Young",
+                "gender": "Female",
+                "size": "Small",
+                "coat": "Short",
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": false
+                },
+                "environment": {
+                    "children": true,
+                    "dogs": null,
+                    "cats": true
+                },
+                "tags": [
+                    "Friendly",
+                    "Affectionate",
+                    "Loyal",
+                    "Gentle"
+                ],
+                "name": "April",
+                "description": "April is very sweet, elegant, and gently girl. She craves attention and loves to cuddle and to be petted. She...",
+                "organization_animal_id": null,
+                "photos": [
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/1/?bust=1656968195&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/1/?bust=1656968195&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/1/?bust=1656968195&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/1/?bust=1656968195"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/2/?bust=1656968196&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/2/?bust=1656968196&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/2/?bust=1656968196&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/2/?bust=1656968196"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/3/?bust=1656968199&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/3/?bust=1656968199&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/3/?bust=1656968199&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/3/?bust=1656968199"
+                    }
+                ],
+                "primary_photo_cropped": {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/1/?bust=1656968195&width=300",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/1/?bust=1656968195&width=450",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/1/?bust=1656968195&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190291/1/?bust=1656968195"
+                },
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:56:41+0000",
+                "published_at": "2022-07-04T20:56:41+0000",
+                "distance": null,
+                "contact": {
+                    "email": "portes@bestpjm.com",
+                    "phone": null,
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Union City",
+                        "state": "NJ",
+                        "postcode": "07087",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190291"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/nj813"
+                    }
+                }
+            },
+            {
+                "id": 56190287,
+                "organization_id": "NJ736",
+                "url": "https://www.petfinder.com/cat/plaza-56190287/nj/trenton/trenton-cats-rescue-nj736/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Black & White / Tuxedo",
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Male",
+                "size": "Medium",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": null,
+                    "dogs": null,
+                    "cats": null
+                },
+                "tags": [],
+                "name": "Plaza",
+                "description": "If you&amp;#39;d like to meet this cat or think this cat would be a good match for your family, please...",
+                "organization_animal_id": "18104198",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:55:51+0000",
+                "published_at": "2022-07-04T20:55:51+0000",
+                "distance": null,
+                "contact": {
+                    "email": "inquiries@trentoncats.org",
+                    "phone": "(857) 228-8696",
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Trenton",
+                        "state": "NJ",
+                        "postcode": "08618",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190287"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/nj736"
+                    }
+                }
+            },
+            {
+                "id": 56190288,
+                "organization_id": "NJ736",
+                "url": "https://www.petfinder.com/cat/starwood-56190288/nj/trenton/trenton-cats-rescue-nj736/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Black & White / Tuxedo",
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Male",
+                "size": "Medium",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": null,
+                    "dogs": null,
+                    "cats": null
+                },
+                "tags": [],
+                "name": "Starwood",
+                "description": "If you&amp;#39;d like to meet this cat or think this cat would be a good match for your family, please...",
+                "organization_animal_id": "18104304",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:55:51+0000",
+                "published_at": "2022-07-04T20:55:51+0000",
+                "distance": null,
+                "contact": {
+                    "email": "inquiries@trentoncats.org",
+                    "phone": "(857) 228-8696",
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Trenton",
+                        "state": "NJ",
+                        "postcode": "08618",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190288"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/nj736"
+                    }
+                }
+            },
+            {
+                "id": 56190289,
+                "organization_id": "NJ736",
+                "url": "https://www.petfinder.com/cat/hilton-56190289/nj/trenton/trenton-cats-rescue-nj736/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": null,
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Female",
+                "size": "Medium",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": null,
+                    "dogs": null,
+                    "cats": null
+                },
+                "tags": [],
+                "name": "Hilton",
+                "description": "If you&amp;#39;d like to meet this cat or think this cat would be a good match for your family, please...",
+                "organization_animal_id": "18104247",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:55:51+0000",
+                "published_at": "2022-07-04T20:55:51+0000",
+                "distance": null,
+                "contact": {
+                    "email": "inquiries@trentoncats.org",
+                    "phone": "(857) 228-8696",
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Trenton",
+                        "state": "NJ",
+                        "postcode": "08618",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190289"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/nj736"
+                    }
+                }
+            },
+            {
+                "id": 56190290,
+                "organization_id": "NJ736",
+                "url": "https://www.petfinder.com/cat/wyndham-56190290/nj/trenton/trenton-cats-rescue-nj736/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Black & White / Tuxedo",
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Female",
+                "size": "Medium",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": null,
+                    "dogs": null,
+                    "cats": null
+                },
+                "tags": [],
+                "name": "Wyndham",
+                "description": "If you&amp;#39;d like to meet this cat or think this cat would be a good match for your family, please...",
+                "organization_animal_id": "18104275",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:55:51+0000",
+                "published_at": "2022-07-04T20:55:51+0000",
+                "distance": null,
+                "contact": {
+                    "email": "inquiries@trentoncats.org",
+                    "phone": "(857) 228-8696",
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Trenton",
+                        "state": "NJ",
+                        "postcode": "08618",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190290"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/nj736"
+                    }
+                }
+            },
+            {
+                "id": 56190286,
+                "organization_id": "VA26",
+                "url": "https://www.petfinder.com/dog/shellie-56190286/va/bedford/bedford-humane-society-va26/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Dog",
+                "species": "Dog",
+                "breeds": {
+                    "primary": "Boxer",
+                    "secondary": "Hound",
+                    "mixed": true,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Yellow / Tan / Blond / Fawn",
+                    "secondary": "Black",
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Female",
+                "size": "Medium",
+                "coat": "Short",
+                "attributes": {
+                    "spayed_neutered": false,
+                    "house_trained": false,
+                    "declawed": null,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": null,
+                    "dogs": true,
+                    "cats": null
+                },
+                "tags": [],
+                "name": "Shellie",
+                "description": "Shellie was pulled from the local pound, therefore we do not know much about her. She appears to have Boxer...",
+                "organization_animal_id": null,
+                "photos": [
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/1/?bust=1656968120&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/1/?bust=1656968120&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/1/?bust=1656968120&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/1/?bust=1656968120"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/2/?bust=1656968121&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/2/?bust=1656968121&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/2/?bust=1656968121&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/2/?bust=1656968121"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/3/?bust=1656968122&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/3/?bust=1656968122&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/3/?bust=1656968122&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/3/?bust=1656968122"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/4/?bust=1656968122&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/4/?bust=1656968122&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/4/?bust=1656968122&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/4/?bust=1656968122"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/5/?bust=1656968123&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/5/?bust=1656968123&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/5/?bust=1656968123&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/5/?bust=1656968123"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/6/?bust=1656968123&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/6/?bust=1656968123&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/6/?bust=1656968123&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/6/?bust=1656968123"
+                    }
+                ],
+                "primary_photo_cropped": {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/1/?bust=1656968120&width=300",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/1/?bust=1656968120&width=450",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/1/?bust=1656968120&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190286/1/?bust=1656968120"
+                },
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:55:25+0000",
+                "published_at": "2022-07-04T20:55:25+0000",
+                "distance": null,
+                "contact": {
+                    "email": "info@bhsva.org",
+                    "phone": "(540) 586-6100",
+                    "address": {
+                        "address1": "829 Ole Turnpike Dr",
+                        "address2": null,
+                        "city": "Bedford",
+                        "state": "VA",
+                        "postcode": "24523",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190286"
+                    },
+                    "type": {
+                        "href": "/v2/types/dog"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/va26"
+                    }
+                }
+            },
+            {
+                "id": 56190284,
+                "organization_id": "KY456",
+                "url": "https://www.petfinder.com/dog/herman-and-sophia-56190284/ky/clearfield/tlc-rescue-ky456/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Dog",
+                "species": "Dog",
+                "breeds": {
+                    "primary": "Collie",
+                    "secondary": "Golden Retriever",
+                    "mixed": true,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": null,
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Senior",
+                "gender": "Female",
+                "size": "Medium",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": null,
+                    "special_needs": true,
+                    "shots_current": false
+                },
+                "environment": {
+                    "children": null,
+                    "dogs": null,
+                    "cats": true
+                },
+                "tags": [],
+                "name": "Herman and Sophia",
+                "description": "Herman and Sophia are a package deal. I think Herman would be fine without Sophia, but she clings to her...",
+                "organization_animal_id": "18225807",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:55:16+0000",
+                "published_at": "2022-07-04T20:55:16+0000",
+                "distance": null,
+                "contact": {
+                    "email": "teresaslegacy.julia@gmail.com",
+                    "phone": null,
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Clearfield",
+                        "state": "KY",
+                        "postcode": "40313",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190284"
+                    },
+                    "type": {
+                        "href": "/v2/types/dog"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/ky456"
+                    }
+                }
+            },
+            {
+                "id": 56190285,
+                "organization_id": "KY456",
+                "url": "https://www.petfinder.com/dog/arlo-56190285/ky/clearfield/tlc-rescue-ky456/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Dog",
+                "species": "Dog",
+                "breeds": {
+                    "primary": "Shepherd",
+                    "secondary": null,
+                    "mixed": true,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": null,
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Adult",
+                "gender": "Male",
+                "size": "Large",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": null,
+                    "special_needs": false,
+                    "shots_current": false
+                },
+                "environment": {
+                    "children": null,
+                    "dogs": null,
+                    "cats": false
+                },
+                "tags": [],
+                "name": "Arlo",
+                "description": "Arlo loves balls. He is a trixie survivor. This sweet boy spent a very long time in a terrible place...",
+                "organization_animal_id": "18225862",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:55:16+0000",
+                "published_at": "2022-07-04T20:55:16+0000",
+                "distance": null,
+                "contact": {
+                    "email": "teresaslegacy.julia@gmail.com",
+                    "phone": null,
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Clearfield",
+                        "state": "KY",
+                        "postcode": "40313",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190285"
+                    },
+                    "type": {
+                        "href": "/v2/types/dog"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/ky456"
+                    }
+                }
+            },
+            {
+                "id": 56190282,
+                "organization_id": "TX2326",
+                "url": "https://www.petfinder.com/cat/butch-56190282/tx/san-antonio/footbridge-foundation-tx2326/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Orange / Red",
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Male",
+                "size": "Small",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": false,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": null,
+                    "dogs": null,
+                    "cats": null
+                },
+                "tags": [
+                    "Spayed Neutered"
+                ],
+                "name": "Butch",
+                "description": null,
+                "organization_animal_id": "FBF-A-1174",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:55:10+0000",
+                "published_at": "2022-07-04T20:55:10+0000",
+                "distance": null,
+                "contact": {
+                    "email": "info@footbridgefoundation.org",
+                    "phone": null,
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "San Antonio",
+                        "state": "TX",
+                        "postcode": "78204",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190282"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/tx2326"
+                    }
+                }
+            },
+            {
+                "id": 56190283,
+                "organization_id": "TX2326",
+                "url": "https://www.petfinder.com/cat/brick-56190283/tx/san-antonio/footbridge-foundation-tx2326/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Orange / Red",
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Male",
+                "size": "Small",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": false,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": null,
+                    "dogs": null,
+                    "cats": null
+                },
+                "tags": [
+                    "Spayed Neutered"
+                ],
+                "name": "Brick",
+                "description": null,
+                "organization_animal_id": "FBF-A-1175",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:55:10+0000",
+                "published_at": "2022-07-04T20:55:10+0000",
+                "distance": null,
+                "contact": {
+                    "email": "info@footbridgefoundation.org",
+                    "phone": null,
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "San Antonio",
+                        "state": "TX",
+                        "postcode": "78204",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190283"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/tx2326"
+                    }
+                }
+            },
+            {
+                "id": 56190281,
+                "organization_id": "WI479",
+                "url": "https://www.petfinder.com/dog/cindy-56190281/wi/fond-du-lac/lucky-dog-small-breed-rescue-wi479/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Dog",
+                "species": "Dog",
+                "breeds": {
+                    "primary": "Chihuahua",
+                    "secondary": null,
+                    "mixed": false,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": null,
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Adult",
+                "gender": "Female",
+                "size": "Small",
+                "coat": "Short",
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": null,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": true,
+                    "dogs": true,
+                    "cats": null
+                },
+                "tags": [
+                    "Friendly",
+                    "Affectionate",
+                    "Gentle",
+                    "Curious",
+                    "Quiet"
+                ],
+                "name": "Cindy ",
+                "description": "Welcome Cindy to Lucky Dog Rescue!! Cindy is a 3yr old Chihuahua weighing 5lbs. Cindy is headed to Lucky Dog...",
+                "organization_animal_id": null,
+                "photos": [
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/1/?bust=1656968100&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/1/?bust=1656968100&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/1/?bust=1656968100&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/1/?bust=1656968100"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/2/?bust=1656968100&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/2/?bust=1656968100&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/2/?bust=1656968100&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/2/?bust=1656968100"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/3/?bust=1656968101&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/3/?bust=1656968101&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/3/?bust=1656968101&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/3/?bust=1656968101"
+                    },
+                    {
+                        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/4/?bust=1656968102&width=100",
+                        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/4/?bust=1656968102&width=300",
+                        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/4/?bust=1656968102&width=600",
+                        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/4/?bust=1656968102"
+                    }
+                ],
+                "primary_photo_cropped": {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/1/?bust=1656968100&width=300",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/1/?bust=1656968100&width=450",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/1/?bust=1656968100&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/56190281/1/?bust=1656968100"
+                },
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:55:03+0000",
+                "published_at": "2022-07-04T20:55:03+0000",
+                "distance": null,
+                "contact": {
+                    "email": "Luckydogsmallbreedrescue@gmail.com",
+                    "phone": "920-279-1818",
+                    "address": {
+                        "address1": null,
+                        "address2": null,
+                        "city": "Fond Du Lac",
+                        "state": "WI",
+                        "postcode": "54935",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190281"
+                    },
+                    "type": {
+                        "href": "/v2/types/dog"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/wi479"
+                    }
+                }
+            },
+            {
+                "id": 56190279,
+                "organization_id": "AZ363",
+                "url": "https://www.petfinder.com/cat/megan-thee-cat-56190279/az/chandler/saving-one-life-az363/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": null,
+                    "mixed": true,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": null,
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Female",
+                "size": "Medium",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": true,
+                    "dogs": true,
+                    "cats": true
+                },
+                "tags": [],
+                "name": "Megan THEE Cat",
+                "description": "Approximate Date of Birth:4/21/2022\n\nDescription:\n\nMegan THEE Cat is a social little girl who refuses to be ignored. She easily...",
+                "organization_animal_id": "18199933",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:54:49+0000",
+                "published_at": "2022-07-04T20:54:49+0000",
+                "distance": null,
+                "contact": {
+                    "email": "adoptions@savingonelife.org",
+                    "phone": "(602) 715-2700",
+                    "address": {
+                        "address1": "PO Box 6458",
+                        "address2": null,
+                        "city": "Chandler",
+                        "state": "AZ",
+                        "postcode": "85249",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190279"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/az363"
+                    }
+                }
+            },
+            {
+                "id": 56190280,
+                "organization_id": "AZ363",
+                "url": "https://www.petfinder.com/cat/sugar-girl-56190280/az/chandler/saving-one-life-az363/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": "Tuxedo",
+                    "mixed": true,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": "Gray & White",
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Female",
+                "size": "Medium",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": true,
+                    "dogs": null,
+                    "cats": true
+                },
+                "tags": [],
+                "name": "Sugar Girl",
+                "description": "Approximate Date of Birth:3/27/2022\n\nDescription:\n\nSugar Girl is very curious and loves to check out her surroundings. She loves to...",
+                "organization_animal_id": "18224255",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:54:49+0000",
+                "published_at": "2022-07-04T20:54:49+0000",
+                "distance": null,
+                "contact": {
+                    "email": "adoptions@savingonelife.org",
+                    "phone": "(602) 715-2700",
+                    "address": {
+                        "address1": "PO Box 6458",
+                        "address2": null,
+                        "city": "Chandler",
+                        "state": "AZ",
+                        "postcode": "85249",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190280"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/az363"
+                    }
+                }
+            },
+            {
+                "id": 56190277,
+                "organization_id": "AZ363",
+                "url": "https://www.petfinder.com/cat/spice-girl-56190277/az/chandler/saving-one-life-az363/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": null,
+                    "mixed": true,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": null,
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Female",
+                "size": "Medium",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": true,
+                    "dogs": null,
+                    "cats": true
+                },
+                "tags": [],
+                "name": "Spice Girl",
+                "description": "Approximate Date of Birth:3/27/2022\n\nDescription:\n\nSpice is cautious at first, watches but then loves to play and run around. She...",
+                "organization_animal_id": "18224246",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:54:48+0000",
+                "published_at": "2022-07-04T20:54:48+0000",
+                "distance": null,
+                "contact": {
+                    "email": "adoptions@savingonelife.org",
+                    "phone": "(602) 715-2700",
+                    "address": {
+                        "address1": "PO Box 6458",
+                        "address2": null,
+                        "city": "Chandler",
+                        "state": "AZ",
+                        "postcode": "85249",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190277"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/az363"
+                    }
+                }
+            },
+            {
+                "id": 56190278,
+                "organization_id": "AZ363",
+                "url": "https://www.petfinder.com/cat/notorious-c-dot-at-56190278/az/chandler/saving-one-life-az363/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": "Tabby",
+                    "mixed": true,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": null,
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Male",
+                "size": "Medium",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": true,
+                    "dogs": true,
+                    "cats": true
+                },
+                "tags": [],
+                "name": "Notorious C.A.T.",
+                "description": "Approximate Date of Birth:4/21/2022\n\nDescription:\n\nDo you need an intelligent kitten to talk to? Then Notorious C.A.T. is the boy...",
+                "organization_animal_id": "18199935",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:54:48+0000",
+                "published_at": "2022-07-04T20:54:48+0000",
+                "distance": null,
+                "contact": {
+                    "email": "adoptions@savingonelife.org",
+                    "phone": "(602) 715-2700",
+                    "address": {
+                        "address1": "PO Box 6458",
+                        "address2": null,
+                        "city": "Chandler",
+                        "state": "AZ",
+                        "postcode": "85249",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190278"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/az363"
+                    }
+                }
+            },
+            {
+                "id": 56190276,
+                "organization_id": "AZ363",
+                "url": "https://www.petfinder.com/cat/snoop-catt-56190276/az/chandler/saving-one-life-az363/?referrer_id=20bbfc5a-2371-4ed0-ba43-79bced65943a",
+                "type": "Cat",
+                "species": "Cat",
+                "breeds": {
+                    "primary": "Domestic Short Hair",
+                    "secondary": "Tabby",
+                    "mixed": true,
+                    "unknown": false
+                },
+                "colors": {
+                    "primary": null,
+                    "secondary": null,
+                    "tertiary": null
+                },
+                "age": "Baby",
+                "gender": "Male",
+                "size": "Medium",
+                "coat": null,
+                "attributes": {
+                    "spayed_neutered": true,
+                    "house_trained": true,
+                    "declawed": false,
+                    "special_needs": false,
+                    "shots_current": true
+                },
+                "environment": {
+                    "children": true,
+                    "dogs": true,
+                    "cats": true
+                },
+                "tags": [],
+                "name": "Snoop Catt",
+                "description": "Approximate Date of Birth:4/21/2022\n\nDescription:\n\nSnoop Catt is a hard core playful kitten but there is a sweet snuggly side...",
+                "organization_animal_id": "18199936",
+                "photos": [],
+                "primary_photo_cropped": null,
+                "videos": [],
+                "status": "adoptable",
+                "status_changed_at": "2022-07-04T20:54:47+0000",
+                "published_at": "2022-07-04T20:54:47+0000",
+                "distance": null,
+                "contact": {
+                    "email": "adoptions@savingonelife.org",
+                    "phone": "(602) 715-2700",
+                    "address": {
+                        "address1": "PO Box 6458",
+                        "address2": null,
+                        "city": "Chandler",
+                        "state": "AZ",
+                        "postcode": "85249",
+                        "country": "US"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "/v2/animals/56190276"
+                    },
+                    "type": {
+                        "href": "/v2/types/cat"
+                    },
+                    "organization": {
+                        "href": "/v2/organizations/az363"
+                    }
+                }
+            }
+        ],
+        "pagination": {
+            "count_per_page": 20,
+            "total_count": 249501,
+            "current_page": 1,
+            "total_pages": 12476,
+            "_links": {
+                "next": {
+                    "href": "/v2/animals?page=2"
+                }
+            }
+        }
+    }
+]
